@@ -7,6 +7,17 @@ Full implementation details are in the attached PDF documentation.
 
 ---
 
+## My Contribution (Jongchan Park)
+
+Primarily responsible for the system software implementation.
+
+- Implemented the core control logic in C++ (Arduino Framework)
+- Designed the 16×16 occupancy grid mapping and autonomous navigation logic
+- Developed return-to-home algorithm and movement calibration
+- Integrated IMU-based collision detection and RF remote control handling
+
+---
+
 ## Tech Stack
 
 ### Language
